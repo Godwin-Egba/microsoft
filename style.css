@@ -101,8 +101,6 @@ a {
 }
 
 .left {
-    /* width: 90%;
-    height: 50vh !important; */
     background-image: url(./imges/quino-al-mBQIfKlvowM-unsplash.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -128,8 +126,7 @@ a {
 }
 
 .header-read {
-    /* text-align: left;
-        padding: 15rem 25rem */
+ 
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -314,16 +311,12 @@ a {
 }
 
 .footer div {
-    /* margin-bottom: 10px; */
     display: flex;
-    /* align-items: center; */
     margin-right: 5px;
 
 }
 
-/* .footer li{
-    margin-left: 5px;
-} */
+
 .footer div i {
     margin-right: 10px;
 }
